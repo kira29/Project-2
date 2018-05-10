@@ -1,0 +1,78 @@
+body {
+    	background-image: url("https://orig00.deviantart.net/b3ae/f/2014/354/7/f/tumblr__background_gif_by_chartfish-d8aiscn.gif");
+   	background-size:cover;
+	text-align:center;
+	background-repeat:no-repeat;
+
+}
+.main {
+    	margin: 2% auto;
+    	width: 25%;
+	font-family: 'Verdana', sans-serif;
+}
+.sub-head {
+    	font-size: 45px;
+    	padding: 40px;
+    	color: white;
+    	text-transform: uppercase;
+    	letter-spacing: 3px;
+}
+.sub-main{
+	position:relative;
+}
+
+.create input["submit"]{
+  padding: 10px 38px;
+    	border: none;
+   	  border-radius: 5px;
+        outline: none;
+    	font-size: 1.14354em;
+    	margin: 2px 0px 8px 8px;
+    	color: black;
+     }
+.sub-main input[type="password"]   {
+    	outline: none;
+    	font-size: 1.14354em;
+    	margin: 2px 0px 8px 8px;
+    	color: black;
+    	padding: 10px 38px;
+    	border: none;
+   	  border-radius: 5px;
+    	width: 65%;
+	    font-family: Palatino, Helvetica, sans-serif;
+}
+.sub-main input[type="email"]   {
+    	outline: none;
+    	font-size: 1.14354em;
+    	margin: 2px 0px 8px 8px;
+    	color: black;
+    	padding: 10px 38px;
+    	border: none;
+   	  border-radius: 5px;
+    	width: 65%;
+	    font-family: Palatino, Helvetica, sans-serif;
+}
+.sub-main input[type="text"]  {
+    	outline: none;
+    	font-size: 1.14354em;
+    	margin: 2px 0px 8px 8px;
+    	color: black;
+    	padding: 10px 38px;
+    	border: none;
+   	  border-radius: 5px;
+    	width: 65%;
+	font-family: Palatino, Helvetica, sans-serif;
+}
+.sub-main input[type="submit"] {
+    	color: black;
+    	background: white;
+    	border: none;
+    	padding: 10px 30px;
+    	font-size: 21px;
+    	border-radius: 10px;
+    	margin: 17px;
+	font-family: Arial, Helvetica, sans-serif;
+	cursor:pointer;
+	text-transform:uppercase;
+	
+}
